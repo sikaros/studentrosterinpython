@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": "A1",
+      "first_name": "John",
+      "last_name": "Smith",
+      "email": "John1989@gmail.com",
+      "age": 20,
+      "courses": [
+        30,
+        35,
+        40
+      ],
+      "degree_program": "SECURITY"
+    },
+    {
+      "id": "A2",
+      "first_name": "Suzan",
+      "last_name": "Erickson",
+      "email": "Erickson_1990@gmailcom",
+      "age": 19,
+      "courses": [
+        50,
+        30,
+        40
+      ],
+      "degree_program": "NETWORK"
+    },
+    {
+      "id": "A3",
+      "first_name": "Jack",
+      "last_name": "Napoli",
+      "email": "The_lawyer99yahoo.com",
+      "age": 19,
+      "courses": [
+        20,
+        40,
+        33
+      ],
+      "degree_program": "SOFTWARE"
+    },
+    {
+      "id": "A4",
+      "first_name": "Erin",
+      "last_name": "Black",
+      "email": "Erin.black@comcast.net",
+      "age": 22,
+      "courses": [
+        50,
+        58,
+        40
+      ],
+      "degree_program": "SECURITY"
+    }
+     
+  ]
+}

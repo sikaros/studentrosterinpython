@@ -1,3 +1,4 @@
+# simple program that asks for your first and then your last name and outputs it together.
 class NameStruct:
     def __init__(self):
         self._first_name = ""
